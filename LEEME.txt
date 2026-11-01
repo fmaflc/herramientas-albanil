@@ -1,0 +1,64 @@
+HERRAMIENTAS DEL ALBAÑIL · VERSIÓN AMPLIADA
+48 herramientas · 8 categorías
+
+Se mantienen la estética, el logotipo, las ilustraciones originales y los apartados de las fichas. Las 21 ilustraciones nuevas son orientativas y se han generado con IA. La marca pequeña se muestra abajo a la izquierda en las nuevas imágenes.
+
+HERRAMIENTAS AÑADIDAS
+- Regla de albañil
+- Cordel de albañil
+- Tiralíneas
+- Lápiz de carpintero
+- Nivel láser
+- Paletín
+- Llana de goma para juntas
+- Esponja de albañil
+- Pistola para cartuchos
+- Carretilla de obra
+- Ventosa para baldosas
+- Sargento
+- Palanca de desencofrar
+- Rascador de juntas
+- Cortadora manual de cerámica
+- Tenaza para cerámica
+- Cúter
+- Mezclador eléctrico
+- Taladro percutor
+- Amoladora angular
+- Cepillo de alambre
+
+REVISIÓN
+Se han precisado los textos sobre alicates, tenazas, cinceles, maceta, mazo de goma y fratás. El buscador admite varias palabras y nombres alternativos; los filtros indican cuántos resultados se muestran. El marcado «ya la conozco» se guarda en este navegador y dispositivo, si el almacenamiento está disponible.
+
+INSTALACIÓN
+No hace falta compilar ni instalar dependencias. Mantén index.html, ejercicios.js y la carpeta img juntos.
+Netlify: descomprime y sube la carpeta que contiene index.html en un despliegue manual.
+Cloudflare Pages: utiliza la carga directa de recursos con el ZIP o con la carpeta, según la opción del panel.
+
+Las fichas son un apoyo al reconocimiento de herramientas. Para utilizarlas, sigue la formación del docente, el manual del fabricante y las medidas preventivas del trabajo.
+
+
+EJERCICIOS AUTOCORREGIBLES
+Se conservan las 48 fichas, sus imágenes, apartados, fuentes y marca original.
+Se añaden 48 ejercicios, uno por herramienta: 24 de reconocimiento visual y
+24 sobre funciones, elección de útiles, diferencias y precauciones.
+La portada permite acceder a los ejercicios y cada ficha enlaza a su actividad.
+Puedes comprobar la respuesta, leer una explicación, pedir una pista, repasar
+la ficha y repetir. En reconocimiento visual, el nombre se revela al corregir
+o al abrir la ficha relacionada.
+
+PROGRESO
+Se guardan las herramientas marcadas y los ejercicios superados en este
+navegador y dispositivo. No se envían respuestas. Borrar datos del navegador
+elimina el progreso. En navegación privada puede ser temporal o no estar
+disponible. Los intentos en curso duran mientras la página está abierta.
+Repetir no borra un logro. «Reiniciar el progreso de ejercicios» permite
+borrar los logros, previa confirmación, conservando las herramientas marcadas.
+
+PUBLICACIÓN
+Descomprime el ZIP y sube TODO su contenido: index.html, ejercicios.js, img,
+.nojekyll y LEEME.txt. index.html debe quedar en la raíz publicada.
+Compatible con GitHub Pages, Cloudflare Pages y Netlify, sin compilación ni
+cuentas del alumnado. No incorpora modo sin conexión instalable; los enlaces
+a las fuentes necesitan conexión.
+Las actividades son de repaso; no acreditan formación ni autorizan trabajos.
+Revisión: octubre de 2026.
